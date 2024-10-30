@@ -1,5 +1,5 @@
 # __**Resume (Resumo)**__
-| 
+| Uma calculadora simples de médias com HTML, CSS e Javascript
 
 ## __**Technologies Used and Important Links (Tecnologias usadas e links importantes)**__
 
